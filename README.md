@@ -1,90 +1,126 @@
-<h1 align="left" id="ahmed-title">:wave: Hello there! I'm Ahmed Mohamed Habiby</h1>
-<h3 align="left">I do Full Stack Java / Spring Boot / Angular Engineering things</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ahmed%20Mohamed%20Habiby&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Java%20Software%20Engineer&descAlignY=55&descAlign=50" alt="Ahmed Habiby Banner" />
+</p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername" alt="page views" />
-  </a>
-  <a href="mailto:ahmednsra329@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-ahmednsra329%40gmail.com-blue?style=flat&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-habiby-3401a1255">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmed_Habiby-blue?style=flat&logo=linkedin">
-  </a>
-  <a href="https://github.com/yourusername?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/yourusername?style=flat&logo=github">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Software+Engineer;Building+Scalable+Spring+Boot+Backends;Crafting+Interactive+Angular+Frontends;Based+in+Cairo,+Egypt" alt="Typing SVG" />
   </a>
 </p>
 
-<a href="#ahmed-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true" alt="ahmed stats" align="right" />
-</a>
+<p align="center">
+  <a href="mailto:ahmednsra329@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-habiby-3401a1255"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blue" alt="Profile Views" />
+</p>
 
-- :office: &nbsp;I recently worked on a **[Full-Stack Restaurant Management System]**
-- :seedling: &nbsp;I’m currently building **[ExploreHub]**, a tourism platform backend
-- :speech_balloon: &nbsp;I like to talk about **Java, Spring Boot, Angular, and System Design**
-- :mailbox: &nbsp;Ask me anything about **REST APIs and Docker** on my **[Email]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+<hr>
+
+### 👨‍💻 About Me & My Approach
+
+[cite_start]I am a Full Stack Java Software Engineer [cite: 4] [cite_start]with a strong technical mindset and a methodical approach to problem-solving[cite: 5]. [cite_start]I specialize in designing layered architectures, writing clean code, and ensuring smooth, end-to-end product development[cite: 4, 55]. Beyond web development, I have a deep interest in advanced data structures, algorithmic efficiency, and applied statistical data analysis.
+
+- [cite_start]🌍 **Location:** Cairo, Egypt [cite: 2]
+- [cite_start]🎓 **Education:** Bachelor of Engineering, Computers — Menoufia University [cite: 61]
+- [cite_start]💡 **Core Philosophy:** Applying SOLID principles and domain-driven design to build robust, scalable applications[cite: 34, 53].
 
 <br>
 
-<h2 align="left" id="ahmed-tech">Favorite Tech</h2>
+### 🛠️ Technical Arsenal
 
-> Tools, languages, and other things that I like to work with.
+*Annotated breakdown of my primary development stack and tools.*
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#ahmed-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#ahmed-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
-      </a>
-      <br>Spring Boot
-    </td>
-    <td align="center" width="96">
-      <a href="#ahmed-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Angular
-    </td>
-    <td align="center" width="96">
-      <a href="#ahmed-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#ahmed-tech" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96"> 
-      <a href="#ahmed-tech" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center"  width="96">
-      <a href="#ahmed-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
-      </a>
-      <br>Oracle DB
-    </td>
-    <td align="center" width="96">
-      <a href="#ahmed-tech" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-  </tr>
-</table>
+**Backend & Architecture** <br>
+[cite_start]<img src="https://img.shields.io/badge/Java%20(8--21)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> [cite: 8]
+[cite_start]<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" /> [cite: 11]
+[cite_start]<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" /> [cite: 12]
+[cite_start]<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" /> [cite: 16]
+[cite_start]<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" /> [cite: 37]
+[cite_start]<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black" alt="Swagger" /> [cite: 15]
 
-<h2 align="left">Coding Activity</h2>
+**Frontend Development** <br>
+[cite_start]<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /> [cite: 21]
+[cite_start]<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> [cite: 23]
+[cite_start]<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> [cite: 22]
+[cite_start]<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> [cite: 26]
 
-> Total logged coding time. Updated regularly.
+**Databases, DevOps & Infrastructure** <br>
+[cite_start]<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> [cite: 29]
+[cite_start]<img src="https://img.shields.io/badge/Oracle-F00000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB" /> [cite: 28]
+[cite_start]<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /> [cite: 30]
+[cite_start]<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> [cite: 18]
+[cite_start]<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /> [cite: 19]
+
+<br>
+
+### 🚀 Featured Engineering Projects
+
+<details>
+  <summary><b>🌍 ExploreHub (Comprehensive Tourism Platform)</b></summary>
+  <br>
+  <blockquote>
+    [cite_start]A robust platform designed to highlight tourism destinations across Egypt, featuring secure authentication, content management (mosques, museums, Old Cairo, the Nile), and multi-category analytics. [cite: 48]
+  </blockquote>
+  <ul>
+    [cite_start]<li><b>Backend:</b> Engineered with Java, Spring Boot, Spring Security, and Spring Data JPA. [cite: 49]</li>
+    [cite_start]<li><b>Features:</b> Implemented user favorites, average rating analytics, and an admin dashboard for subscriber management. [cite: 48]</li>
+    [cite_start]<li><b>Deployment:</b> Containerized utilizing Docker and Docker Compose. [cite: 49]</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🍽️ Full-Stack Restaurant Management System</b></summary>
+  <br>
+  <blockquote>
+    [cite_start]An end-to-end web application managing restaurant categories, chef profiles, menu items, and customer order processing. [cite: 52]
+  </blockquote>
+  <ul>
+    [cite_start]<li><b>Architecture:</b> Applied domain-driven thinking, layered architecture, and DTO/view models for optimized data access. [cite: 53, 55]</li>
+    [cite_start]<li><b>Stack:</b> Built RESTful services with Spring Boot and Oracle/MySQL, integrated with a responsive Angular/SCSS frontend. [cite: 54]</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🤝 Friend Finder & Road Licensing System</b></summary>
+  <br>
+  <blockquote>
+    [cite_start]Developed in an agile environment, this project involved building an efficient system handling business rules for licensing vehicles and managing road-related activities. [cite: 58]
+  </blockquote>
+  <ul>
+    [cite_start]<li><b>Focus:</b> Prioritized standard REST APIs, clean code, and efficient database interactions. [cite: 59]</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>📚 "My Summaries" (ملخصاتي) & Automation Tools</b></summary>
+  <br>
+  <blockquote>
+    Personal initiatives focusing on community and automation.
+  </blockquote>
+  <ul>
+    <li><b>My Summaries:</b> An educational platform designed to help trainees easily review and access study summaries.</li>
+    <li><b>Automation:</b> Engineered a Telegram bot utilizing webhooks to automatically forward messages across multiple groups without requiring administrative privileges.</li>
+  </ul>
+</details>
+
+<br>
+
+### 📈 GitHub Analytics & Activity
+
+*Visualizing my code commits, favorite languages, and coding streak.*
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ahmed's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="Ahmed's GitHub Streak" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+<p align="center">
+  <i>"Writing code that scales, builds businesses, and creates seamless user experiences."</i>
+</p>
