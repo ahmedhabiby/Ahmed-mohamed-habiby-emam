@@ -28,10 +28,10 @@ I am a Full Stack Java Software Engineer with a strong technical mindset and a m
 
  🛠️ Technical Arsenal
 
-Annotated breakdown of my primary development stack and tools.*
+Annotated breakdown of my primary development stack and tools.
 
-Backend & Architecture** <br>
-<img src="https://img.shields.io/badge/Java%20(8--21)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> [
+Backend & Architecture <br>
+<img src="https://img.shields.io/badge/Java%20(8--21)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" /> 
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" /> 
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" /> 
@@ -111,22 +111,21 @@ Databases, DevOps & Infrastructure <br>
 
 <br>
 
-📈 GitHub Analytics & Activity
+## GitHub Analytics and Activity
 
-Visualizing my code commits, favorite languages, and coding streak.
+Visualizing commits, preferred languages, and development activity.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ahmed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="Ahmed's GitHub Streak" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhabiby&theme=tokyonight&hide_border=true" alt="Ahmed's Streak" width="48%" />
+
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
+<br>
 
 <p align="center">
-  <i>"Writing code that scales, builds businesses, and creates seamless user experiences."</i>
+Writing code that scales, builds businesses, and creates seamless user experiences.
 </p>
