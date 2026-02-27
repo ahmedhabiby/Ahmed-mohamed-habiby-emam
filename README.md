@@ -83,7 +83,6 @@ My focus is on building **scalable Spring Boot backends** and **interactive Angu
 </details>
 
 <details>
-  <summary><b>📚 My Summaries (ملخصاتي) & Automation Tools</b></summary>
   <br>
   <blockquote>
     Personal initiatives focusing on education and automation.
